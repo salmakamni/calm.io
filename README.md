@@ -1,7 +1,17 @@
 Welcome 
 ========
 
-download repo, open developer mode in chrome://extensions, load unpack the downloaded repo to view extension
+instructions: 
+
+1) download repo
+2) unzip
+3) go to chrome://extensions 
+4) open developer mode in chrome://extensions (toggle on the right side)
+5) load unpack the downloaded repo in extensions 
+6) open new tab
+7) go to extensions button on top, pin calm.io
+8) click calm.io 
+9) destress!
 
 
 
